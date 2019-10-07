@@ -4,11 +4,11 @@
 
 # TELAS
 
-Login![Login](https://raw.githubusercontent.com/davidfaria/omnistack9-mobile-aircnc/master/fotos-demo/log2.png)
+![Login](https://raw.githubusercontent.com/davidfaria/omnistack9-mobile-aircnc/master/fotos-demo/log2.png)
 
-Lista de Spots![Lista de Spots](https://raw.githubusercontent.com/davidfaria/omnistack9-mobile-aircnc/master/fotos-demo/lista-sots.png)
+![Lista de Spots](https://raw.githubusercontent.com/davidfaria/omnistack9-mobile-aircnc/master/fotos-demo/lista-sots.png)
 
-Solicitação de reserva Spot![Reserva Spots](https://raw.githubusercontent.com/davidfaria/omnistack9-mobile-aircnc/master/fotos-demo/solicitacao.png)
+![Reserva Spots](https://raw.githubusercontent.com/davidfaria/omnistack9-mobile-aircnc/master/fotos-demo/solicitacao.png)
 
 Integração do pedido com o Frontend via Socket.io![integracao relatime](https://raw.githubusercontent.com/davidfaria/omnistack9-mobile-aircnc/master/fotos-demo/realtime1.png)
 
